@@ -1,0 +1,35 @@
+/* App.css */
+
+/* Common styles */
+.task-form-container,
+.task-list-container {
+    margin-top: 5rem; /* Add margin top */
+}
+
+/* TaskForm component */
+.custom-form {
+    /* Add styles specific to the form container */
+}
+
+.task-input {
+    /* Add styles for task input */
+}
+
+.custom-btn {
+    /* Add styles for custom button */
+}
+
+/* TaskList component */
+.task-list-heading {
+    /* Add styles for task list heading */
+}
+
+.card {
+    /* Add styles for cards */
+}
+
+.task-buttons {
+    /* Add styles for task buttons */
+}
+
+/* Additional styles can go here */
